@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+  background-color:rgba(0, 0, 0, 0.7);
+}
+.cerceve1{
+    background-color: white;
+    width: 900px;
+    height: 1150px;
+    margin-left: 800px;
+    margin-top: 80px; 
+}
+.foto{
+    border-radius: 50%;
+    width: 200px;
+    height: 150px;
+}
+.fotograf{
+    position:absolute;
+    right: 1650px;
+    top: 550px;
+}
+.yazi{
+    position:absolute;
+    color: white;
+    top: 400px;
+    left: 320px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.biyografi{
+    position:absolute;
+    color: wheat;
+    top: 450px;
+    left: 300px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.ulasim{
+    width: 900px;
+    height: 100px;
+    position: absolute;
+    bottom: 67px;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.insta{
+    width: 50px;
+    height: 50px;
+    margin-left: 320px;
+}
+.wp{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
+.fb{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
+.benitaniyin{
+    width: 900px;
+    height: 400px;
+    background-color: white;
+}
+.iomtal{
+    width: 450px;
+    height: 100px;
+}
+.bilisim{
+    width: 450px;
+    height: 100px;
+    position: absolute;
+    right: 860px;
+}
+.yazis{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+.cizgi{
+    position: absolute;
+    bottom: 670px;
+}
+.cizgi p{
+    font-size: 16.1px;
+}
+.manaman{
+    position:absolute;
+    right: 860px;
+    top: 440px;
+}
+.menemen{
+    border-radius: 50%;
+}
+.bebe{
+    position: absolute;
+    bottom: 430px;
+    left: 900px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.bebeq{
+    border-radius: 50%;
+}
+.bisiqlet{
+    position: absolute;
+    bottom: 430px;
+    left: 1400px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.bisiklet{
+    border-radius: 50%;
+}
+.ineq{
+    position: absolute;
+    bottom: 200px;
+    left: 900px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.inek{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.palyacomemet{
+    position: absolute;
+    bottom: 200px;
+    left: 1400px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.palyaco{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.tanitimyazisi{
+    position: absolute;
+    bottom: 370px;
+    left: 1125px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
